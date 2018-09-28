@@ -1,0 +1,44 @@
+<div class="dd">
+    <h1 style="background: url('../img/milogo.png') 50% 50%"></h1>
+    <a href="#" style="background: url('http://i1.mifile.cn/a4/cms_15373613641608_oBmfS.gif') no-repeat center center"></a>
+    <ul class="pro">
+        <li class="phone"><a href="#">小米手机</a></li>
+        <li class="redphone"><a href="#">红米</a></li>
+        <li class="tv"><a href="#">电视</a></li>
+        <li><a href="#">笔记本</a></li>
+        <li><a href="#">空调</a></li>
+        <li><a href="#">新品</a></li>
+        <li><a href="#">路由器</a></li>
+        <li><a href="#">只能硬件</a></li>
+        <li><a href="#">服务</a></li>
+        <li><a href="#">社区</a></li>
+    </ul>
+</div>
+<div class="ss">
+    <div class="put">
+        <a href="#">小米8</a><a href="#">小米MIX2S</a>
+    </div>
+    <button class="iconfont"> &#xe618;</button>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
